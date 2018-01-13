@@ -1,0 +1,26 @@
+{
+  "name": "jspractice",
+  "version": "1.0.0",
+  "description": "れんしゅー",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ktr0328/JSPractice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ktr0328/JSPractice/issues"
+  },
+  "homepage": "https://github.com/ktr0328/JSPractice#readme",
+  "dependencies": {
+    "chai": "^4.1.2",
+    "immutable": "^3.8.2",
+    "mocha": "^4.0.1",
+    "moment": "^2.19.1"
+  }
+}
